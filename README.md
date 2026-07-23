@@ -37,14 +37,14 @@
 ## 📂 Featured Projects
 
 ### 🔹 Project 1
-Short description of your project.
+
 
 🔗 Repository: https://github.com/shaniyasv/project1
 
 ---
 
 ### 🔹 Project 2
-Short description of your project.
+
 
 🔗 Repository: https://github.com/shaniyasv/project2
 
